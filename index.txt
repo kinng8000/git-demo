@@ -1,3 +1,5 @@
 this is a 2nd file put on the folder for GIT testing
 
 this is a 2nd file put on the folder for GIT testing with 2 files
+
+adding 3rd modify of text
