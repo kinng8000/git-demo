@@ -2,8 +2,6 @@
 
 this is the first file we use for git leanrning
 
-## Ipsum Below
+## putting index.text as new file
 
-this is 2nd update to the readme.md file
-
-tgus us 3rd update to teh readme.md file
+removing Ipsum and put this line here
